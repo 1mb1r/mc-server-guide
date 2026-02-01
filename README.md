@@ -17,6 +17,16 @@
 * TerraFirmaCraft v4.0.18-beta
 * Patchouli v1.21.1-92-NEOFORGE
 * JEI v19.27.0.340
+* Sodium v0.6.13+mc1.21.1
+* Corpse v1.21.1-1.1.13-NEOFORGE
+
+Рекомендованные клиентские моды:
+* Iris-neoforge-1.8.12+mc1.21.1
+* Jade-1.21.1-NeoForge-15.10.4
+* JadeAddons-1.21.1-NeoForge-6.1.0
+* TerraFirmaCraftAnvilHelper-1.0.1
+* Xaerominimap-neoforge-1.21.1-25.3.5
+* Xaeroworldmap-neoforge-1.21.1-1.40.6
 
 Моды и протестированный шейдер можно найти в релизах в этом репозитории.
 
