@@ -19,6 +19,7 @@
 * JEI v19.27.0.340
 * Sodium v0.6.13+mc1.21.1
 * Corpse v1.21.1-1.1.13-NEOFORGE
+* TFC-Real-World-NeoForge-1.21.1-4.0.3
 
 Рекомендованные клиентские моды:
 * Iris-neoforge-1.8.12+mc1.21.1
